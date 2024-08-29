@@ -11,6 +11,10 @@ pip install opencv-python opencv-python-headless opencv-contrib-python
 ```
 pip install numpy
 ```
+3. tqdm
+```
+pip install tqdm
+```
 
 ---
 Made by Phumin "HourCode" Udomdach
