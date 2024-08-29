@@ -15,6 +15,10 @@ pip install numpy
 ```
 pip install tqdm
 ```
+4.logging
+```
+pip install logging
+```
 
 ---
 Made by Phumin "HourCode" Udomdach
