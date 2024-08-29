@@ -7,6 +7,10 @@ This is the code for YoLo image preprocess - rotate augmentation
 ```
 pip install opencv-python opencv-python-headless opencv-contrib-python
 ```
+2. numpy
+```
+pip install numpy
+```
 
 ---
 Made by Phumin "HourCode" Udomdach
