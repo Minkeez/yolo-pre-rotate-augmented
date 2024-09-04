@@ -1,3 +1,7 @@
 frame*.jpg
 frame*.txt
 *.log
+*.zip
+deleted*
+rotation*
+test*
